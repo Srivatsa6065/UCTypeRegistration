@@ -1,0 +1,11 @@
+C:\_MyData\_Projects\_github\UCTypeRegistration\UCTypeRegistration\bin\Debug\UCTypeRegistration.exe.config
+C:\_MyData\_Projects\_github\UCTypeRegistration\UCTypeRegistration\bin\Debug\UCTypeRegistration.exe
+C:\_MyData\_Projects\_github\UCTypeRegistration\UCTypeRegistration\bin\Debug\UCTypeRegistration.pdb
+C:\_MyData\_Projects\_github\UCTypeRegistration\UCTypeRegistration\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\_MyData\_Projects\_github\UCTypeRegistration\UCTypeRegistration\bin\Debug\Microsoft.Practices.Unity.dll
+C:\_MyData\_Projects\_github\UCTypeRegistration\UCTypeRegistration\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\_MyData\_Projects\_github\UCTypeRegistration\UCTypeRegistration\bin\Debug\Microsoft.Practices.Unity.xml
+C:\_MyData\_Projects\_github\UCTypeRegistration\UCTypeRegistration\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\_MyData\_Projects\_github\UCTypeRegistration\UCTypeRegistration\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\_MyData\_Projects\_github\UCTypeRegistration\UCTypeRegistration\obj\Debug\UCTypeRegistration.exe
+C:\_MyData\_Projects\_github\UCTypeRegistration\UCTypeRegistration\obj\Debug\UCTypeRegistration.pdb
